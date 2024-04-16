@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/is-it-your-bday/static/css/main.966b5739.css",
+    "main.js": "/is-it-your-bday/static/js/main.e5119bad.js",
+    "static/media/lazy-cat-jazz.mp3": "/is-it-your-bday/static/media/lazy-cat-jazz.402b0215fc3f2e196fcf.mp3",
+    "static/media/cat-gif.gif": "/is-it-your-bday/static/media/cat-gif.c1ac65ec85bb911c461a.gif",
+    "static/media/cat-tail.gif": "/is-it-your-bday/static/media/cat-tail.233c12daeac4b8fb406e.gif",
+    "static/media/bouqet.png": "/is-it-your-bday/static/media/bouqet.56329584a929721a9d11.png",
+    "static/media/miffy.png": "/is-it-your-bday/static/media/miffy.cc56a3d21286d810c050.png",
+    "index.html": "/is-it-your-bday/index.html",
+    "main.966b5739.css.map": "/is-it-your-bday/static/css/main.966b5739.css.map",
+    "main.e5119bad.js.map": "/is-it-your-bday/static/js/main.e5119bad.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.966b5739.css",
+    "static/js/main.e5119bad.js"
+  ]
+}
