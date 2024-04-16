@@ -1,5 +1,5 @@
 {
-  "name": "project-bday",
+  "name": "is-it-your-bday",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -43,5 +43,8 @@
   },
   "resolutions": {
     "@mui/styled-engine": "npm:@mui/styled-engine-sc@latest"
+  },
+  "devDependencies": {
+    "gh-pages": "^6.1.1"
   }
 }
