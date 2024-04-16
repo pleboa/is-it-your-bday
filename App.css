@@ -1,0 +1,83 @@
+#counter {
+  text-align: center;
+  font-size: 27px;
+}
+
+#titleSeq {
+  display: flex;
+  justify-content: space-between;
+}
+
+#bdaySign {
+  background-color: white;
+  margin-inline: 600px;
+  font-family:'Arial';
+  display:inline-block;
+  margin-right:150px;
+  margin-left:150px;
+  transform: translateX(90px);
+  position: relative;
+}
+
+.cat {
+  display:inline-block;
+  transform: translateY(1px);
+  position:relative;
+}
+
+#passcode {
+  align-items:baseline;
+  display: flex;
+  padding: 10px;
+  position:absolute; 
+  left:35%; 
+  /* bottom:300px; */
+}
+
+#play {
+  transform:translateY(-15px);
+  display:inline-block;
+  margin-right:10px;
+  position:relative;
+}
+
+#ages {
+  transform: translateY(-120px);
+  position:relative;
+}
+
+#onlyShow {
+  height: 100vh;
+  width: 100vw;
+  font-size: 20px;
+  margin: 0px;
+  background-color: white;
+  text-align: center;
+  overflow:hidden;
+  font-family: 'Times New Roman';
+}
+
+h1 {
+  text-align: center;
+}
+
+body {
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+body::-webkit-scrollbar {
+  display: none;
+}
+
+html {
+  height: 100%;
+  width: 100%;
+}
+
+.c {
+  position:absolute;
+  max-width: 100%;
+  max-height: 100%;
+  will-change: transform, opacity;
+}
